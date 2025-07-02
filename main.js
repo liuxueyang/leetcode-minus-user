@@ -5,6 +5,7 @@
 // @description  I am not a LeetCode Plus user and I don’t want to see LeetCode member-only problems.
 // @author       liuxueyang
 // @match        https://leetcode.cn/*
+// @match        https://leetcode.com/*
 // @license      MIT
 // @supportURL   https://github.com/liuxueyang/leetcode-minus-user/issues
 // @homepageURL  https://github.com/liuxueyang/leetcode-minus-user
