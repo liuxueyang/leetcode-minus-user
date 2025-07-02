@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         LeetCode Minus User
 // @namespace    http://tampermonkey.net/
-// @version      1.0
+// @version      1.1
 // @description  I am not a LeetCode Plus user and I don’t want to see LeetCode member-only problems.
 // @author       liuxueyang
 // @match        https://leetcode.cn/*
